@@ -1,3 +1,3 @@
 # NewZero
-for learning reop 
+for learning repo 
 ## project note
